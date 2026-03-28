@@ -1,0 +1,11 @@
+{
+  "name": "registration-purifier",
+  "version": "1.0.0",
+  "description": "A simple es module to purify registration data.",
+  "author": "Rakesh Kumar",
+  "license": "MIT",
+  "main": "index.js",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "dependencies": {}
+}
